@@ -1,0 +1,15 @@
+title: AI for Advocacy & Policy — September 3, 2026 — hello EIKO
+url: https://events.helloeiko.com/e/ai-advocacy-policy-sep-3
+description: null
+canonical: null
+robots: noindex, nofollow
+viewport: width=device-width, initial-scale=1
+charset: UTF-8
+
+=== all meta tags ===
+robots: noindex, nofollow
+viewport: width=device-width, initial-scale=1
+
+=== scripts / analytics ===
+https://www.googletagmanager.com/gtag/js?id=G-HE4MQ35NWE
+INLINE_ID:G-HE4MQ35NWE
